@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/zadanie4.dir/src/libtest.o  -o zadanie4 libzad4_lib.a 

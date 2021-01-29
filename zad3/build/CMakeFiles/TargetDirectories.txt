@@ -1,0 +1,8 @@
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/install/strip.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/install/local.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/edit_cache.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/rebuild_cache.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/zad4_lib.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/list_install_components.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/zadanie4.dir
+/home/tt/sinw/kolokwium/zad3/build/CMakeFiles/install.dir
