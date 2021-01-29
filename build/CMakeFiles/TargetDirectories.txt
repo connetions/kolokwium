@@ -1,0 +1,3 @@
+/home/tt/sinw/kolokwium/build/CMakeFiles/rebuild_cache.dir
+/home/tt/sinw/kolokwium/build/CMakeFiles/myProgram.dir
+/home/tt/sinw/kolokwium/build/CMakeFiles/edit_cache.dir

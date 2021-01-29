@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/myProgram.dir/address.o CMakeFiles/myProgram.dir/employee.o CMakeFiles/myProgram.dir/main.o  -o myProgram 
